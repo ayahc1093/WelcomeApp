@@ -4,4 +4,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="String">String</string>
+    <string name="Deiteldoublethumbsupbuglogo">deitel_logo</string>
+    <string name="Androidlogo">android_logo</string>
 </resources>
