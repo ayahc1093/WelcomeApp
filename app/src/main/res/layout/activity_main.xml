@@ -6,7 +6,7 @@
     android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
     android:id="@+id/welcomeRelativeLayout">
 
-    <TextView android:text="Welcome to Android App Development!" android:layout_width="wrap_content"
+    <TextView android:text="@string/WelcomeToAndroidAppDevelopment" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/welcomeTextView"
         android:textSize="40dp"

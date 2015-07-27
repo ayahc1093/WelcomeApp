@@ -6,4 +6,5 @@
     <string name="String">String</string>
     <string name="Deiteldoublethumbsupbuglogo">deitel_logo</string>
     <string name="Androidlogo">android_logo</string>
+    <string name="WelcomeToAndroidAppDevelopment">Welcome to Android App Development!</string>
 </resources>
